@@ -1,6 +1,6 @@
 # Graph-Neural-Network-for-Node-Classification
 
-### Objective:
+### Objective
 
 The task is to classify whether the GitHub user is a web or a machine learning developer. This target feature was derived from the job title of each user.
 
